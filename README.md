@@ -1,6 +1,6 @@
 # wasm-tool/wasi
 
-Import WebAssembly modules that expose the WebAssembly System Interface (WASI).
+Import WebAssembly modules that expose the [WebAssembly System Interface](https://wasi.dev/) (WASI).
 
 ## Installation
 
